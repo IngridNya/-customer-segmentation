@@ -14,7 +14,7 @@ This project explores how to segment customers into distinct groups using K-Mean
 - Jupyter Notebook
 
 ## 📁 Files
-- `customer segmentation (clustering).ipynb` — full code & analysis
+- [Customer Segmentation (Clustering).ipynb](https://github.com/IngridNya/-customer-segmentation/blob/main/Customer%20Segmentation%20%28Clustering%29.ipynb) — full code & analysis
 - `customer_segmentation_data.csv` — dataset used
 
 ---
